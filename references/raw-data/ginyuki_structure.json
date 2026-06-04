@@ -1,0 +1,190 @@
+{
+  "categories": [
+    {
+      "url": "https://ro.ginyuki.com/category/quest",
+      "name": "任務"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/episodes",
+      "name": "劇情相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/map",
+      "name": "地圖"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/account-computer",
+      "name": "帳號及電腦相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/account-computer/data",
+      "name": "改檔"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/uncategorized",
+      "name": "未分類"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/event",
+      "name": "活動"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/item",
+      "name": "物品"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/memo",
+      "name": "筆記"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/job",
+      "name": "職業"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/ro-changejob",
+      "name": "轉職"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/%e9%96%8b%e7%ae%b1",
+      "name": "開箱"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/episodes",
+      "name": "劇情相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/episodes",
+      "name": "劇情相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/quest",
+      "name": "任務"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/episodes",
+      "name": "劇情相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/episodes",
+      "name": "劇情相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/map",
+      "name": "地圖"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://ro.ginyuki.com/",
+      "name": "Ginyuki&#039;s RO Note"
+    },
+    {
+      "url": "https://ro.ginyuki.com/usebook",
+      "name": "使用說明書"
+    },
+    {
+      "url": "https://ro.ginyuki.com/link",
+      "name": "實用連結"
+    },
+    {
+      "url": "https://ro.ginyuki.com/ep",
+      "name": "TwRO版本"
+    },
+    {
+      "url": "https://ro.ginyuki.com/terminology",
+      "name": "術語整理"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2018/12/30/post_1583.html",
+      "name": "【筆記】寵物相關道具及附加能力"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2017/12/05/post_758.html",
+      "name": "【整理】RO全職業立繪（設定圖）"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2023/10/14/post_3198.html",
+      "name": "【整理】四轉／擴充次上位轉職總整理（暫時）"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2018/07/08/post_1300.html",
+      "name": "【地圖】DAIDAI任務魔物所在地（呆呆）"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2021/10/23/post_4377.html",
+      "name": "【整理】盧恩米德加茲王國 七王家"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/quest",
+      "name": "任務"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/episodes",
+      "name": "劇情相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/map",
+      "name": "地圖"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/account-computer",
+      "name": "帳號及電腦相關"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/account-computer/data",
+      "name": "改檔"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/uncategorized",
+      "name": "未分類"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/event",
+      "name": "活動"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/item",
+      "name": "物品"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/memo",
+      "name": "筆記"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/job",
+      "name": "職業"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/ro-changejob",
+      "name": "轉職"
+    },
+    {
+      "url": "https://ro.ginyuki.com/category/%e9%96%8b%e7%ae%b1",
+      "name": "開箱"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2026/05/07/post_8197.html",
+      "name": "【劇情】斐揚洞穴成因傳說（月夜貓背景）"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2026/05/05/post_8152.html",
+      "name": "【筆記】奧斯卡的一些販賣機"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2026/05/05/post_8122.html",
+      "name": "【副本】克雷斯特漢姆古城的沒落 劇情（古城EDDA）"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2026/04/24/post_8049.html",
+      "name": "【研究】殭屍與妖道故事整理"
+    },
+    {
+      "url": "https://ro.ginyuki.com/2026/03/02/post_7865.html",
+      "name": "【地圖】2026版「喵卡普、喵准它」使用方法＆傳送位置"
+    },
+    {
+      "url": "https://ro.ginyuki.com/page/41",
+      "name": "41"
+    }
+  ]
+}
